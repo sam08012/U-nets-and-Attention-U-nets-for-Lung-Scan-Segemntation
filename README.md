@@ -1,4 +1,3 @@
-# U-nets-and-Attention-U-nets-for-Lung-Scan-Segemntation
 ## Comparative Analysis of U-nets and Attention U-nets for Lung Scan Segmentation
 
 ### Project Overview:
