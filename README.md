@@ -1,11 +1,4 @@
 # U-nets-and-Attention-U-nets-for-Lung-Scan-Segemntation
-In progress comparative analysis for results obtained by Unets and Attention-Unets for Lung scan segmentaion
-This project aims at improving the segmenatation of CT scans performed on lungs. It is a supervised based technique that uses conceot of neural network for extraction of segments. These segments are utilized by doctors to pin-point lobes or tumors inside lungs.
-
-Unets: https://drive.google.com/file/d/1heNG4AsE466wIY0osvi0ha-TaZ5TjOCK/view?usp=sharing
-Attention Unets: https://colab.research.google.com/drive/196mub47JMsQodxb_y-dfGH0eVoSKZp-P?usp=sharing
-Results are still being improved with fine tuning of this archieetcture.
-
 ## Comparative Analysis of U-nets and Attention U-nets for Lung Scan Segmentation
 
 ### Project Overview:
